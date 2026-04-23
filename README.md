@@ -1,2 +1,6 @@
 # sql-practice
-SQL queries and problem solving practice.
+
+SQL query practice — SELECT, JOINs, aggregations, and problem solving.
+
+## Stack
+MySQL
